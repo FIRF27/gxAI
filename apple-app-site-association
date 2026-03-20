@@ -1,14 +1,10 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
+    "applinks":{
+        "apps":[],
+        "details":[
             {
-                "appIDs": [
-                    "Y369MYA469.com.netinfo.app.ai.wrapper"
-                ],
-                "paths": [
-                    "/app/*"
-                ]
+                "appID":"Y369MYA469.com.netinfo.app.ai.wrapper",
+                "paths":["/app/*"]
             }
         ]
     }
